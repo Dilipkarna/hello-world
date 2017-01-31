@@ -6,3 +6,4 @@ commit means saving changes
 
 
 This is a collaboration between two accounts to learn github colanoration. 
+github multiple collaborations
